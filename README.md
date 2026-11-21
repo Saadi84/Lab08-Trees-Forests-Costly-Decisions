@@ -42,4 +42,4 @@ The dataset contains 768 records and 9 columns, including patient features and t
 ## Conclusion
 This project demonstrates how different classification models can be evaluated and how decision thresholds can be adjusted according to the cost of false positives and false negatives.
 
-**Note:** This is an educational machine learning experiment, not a medical diagnostic tool.
+**Note:-** This is an educational machine learning experiment, not a medical diagnostic tool.
